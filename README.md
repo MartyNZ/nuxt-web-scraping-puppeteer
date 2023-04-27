@@ -19,4 +19,4 @@ $ yarn generate
 ```
 Related article can be found at [masteringbackend.com/posts/web-scraping-with-nuxtjs-using-puppeteer](https://masteringbackend.com/posts/web-scraping-with-nuxtjs-using-puppeteer/)
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxt.com).
